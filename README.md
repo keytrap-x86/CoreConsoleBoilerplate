@@ -1,5 +1,7 @@
 # CoreConsoleBoilerPlate
 
+![Demo](https://github.com/varKeytrap/CoreConsoleBoilerplate/blob/master/demo.PNG?raw=true)
+
 ## What is it ?
 This is a C# project template for creating a Dot Net Core 5 Console application with Serilog & Dependency Injection.
 
