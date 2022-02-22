@@ -10,6 +10,6 @@ You can clone this project then open it, go to `Project` > `Export template...`
 
 or
 
-Download the *CoreConsoleBoilerplate.zip* (without extracting it) and put it in %userprofile%\Documents\Visual Studio 20*XX*\Templates\ProjectTemplates
+Download the [*CoreConsoleBoilerplate.zip*](https://github.com/varKeytrap/CoreConsoleBoilerplate/raw/master/CoreConsoleBoilerplate.zip) (without extracting it) and put it in %userprofile%\Documents\Visual Studio 20*XX*\Templates\ProjectTemplates
 
 ![Folder](https://github.com/varKeytrap/CoreConsoleBoilerplate/blob/master/folder.PNG?raw=true)
